@@ -1,0 +1,30 @@
++Eigenschaften Charakter : Kochen , Gärtner, Forscher, Nahkampf/Fernkampf, Magier, Handwerk, Stärke, Bergbau, Architekt, Jäger, Tierfreundlich, reiten, Medizin(Mensch/Tier),Brauer,Alkimist 
++Biome:Wald,Wüste,Meer,Gebirge,Hölle(feuer/Vulkan),Wolke,
++HausTiere: Hund, Katze, 
+	Nutztiere :Bison, Kuh, Schwein, Schaf, Wolf, Pferd, Ochse, 
+		Wildtiere:Bär, Hirsch, Reh, Hase, Polarbär, Rabe, Drachen, 
++Waffen:
+	Nahkampf: Schwert (Kupfer,Holz,Eisen,Stahl),Hellebadiere, Speer, Dolch, Keule, Äxt 
+	Fernkampf: Schleuder, Bogen, Wurfspeer, MagierStab(mit boni (spezieller Stein)), Armbrust
+	Verteidigung:Anziehsachen(rüstung(Helm,Kettenhemd,T-Shirt,Mantel,schuhe,Hose,Brustpanzer,Hut)), Schilde,
+
++Gegenstände: Produktion: Hammer,Säge,Axt,Zange,Spaten,Schaufel,Messer,Schere,
+		Landwirtschaft: Angel,Sichel,Sense,heugabel,Pflug
+
++Rohstoffe(metalle):Stahl,Holz,Stein,Eisen,Kupfer,Maralde,atmetisten,Magnesion,Azurnium,Kohle,Cobalt,Holzkohle,nickel
++Rohstoffe(nahrung):Getreide,Fleisch,reis,Katoffeln,Fruchtbäume/sträucher,Fisch,Nüsse,
+
+
++Nahrung :Rezepte (kochen .....),Magier(rezepte),
+	Drogen :	Alraun,Bilsenkraut,Nachtschatten,Stechapfel,Tollkirsche,
+	Getränke :Alkohol,bier,Wein,Wasser,schnaps,met,
+	chemie: Kräuter, Tränke(boost,Heil),
+
++Völker: Elfen(Handwerk,Magie,hassen Zwerge),Zwerge(handwerk,Stärke),Menschen(beste Forscher,gute reiter),Orgs(richtig Stark, lam Forschung),Tiermenschen(Gute Jäger,Tierfreundlich),Goblins(Flink,Böse(diebe)),Untote(Feind von allen,immun gegen gift,bonus auf Magie),
+
+
+		
+
++Forschungsbaum - Daniel
++Toutorial	- lars
++Gebäudeplan/Eigenschaften - Arthur	
